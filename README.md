@@ -1,4 +1,6 @@
-fa14-team3
+fa14-team4
 ==========
 
-Fall 2014 Git Lab Session 2 Team 3
+Fall 2014 Git Lab Session 2 Team 4
+
+Gregory Murashige
